@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Vista
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - file.ctime
+    sort: []
+    columnSize:
+      file.name: 441
