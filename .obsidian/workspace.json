@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas Computacionales/7to Semestre/Adquisición y visualización de datos/Unidad 2/Factores que afectan el ancho de un I.C..md",
+                "file": "Ideas de proyectos/Idea de proyecto para servicio SaaS para catering en negocios locales y microempresas de México.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Factores que afectan el ancho de un I.C."
+              "title": "Idea de proyecto para servicio SaaS para catering en negocios locales y microempresas de México"
             }
           }
         ],
@@ -209,14 +209,18 @@
   },
   "active": "1d4c7b43c3a3b24a",
   "lastOpenFiles": [
-    "Sistemas Computacionales/7to Semestre/Adquisición y visualización de datos/Unidad 2/Proyecto SII/Banco de Preguntas.pdf",
+    "Sistemas Computacionales/7to Semestre/Adquisición y visualización de datos/Unidad 2/Banco de Preguntas Para Forms.md",
+    "Ideas de proyectos/Idea de proyecto para servicio SaaS para catering en negocios locales y microempresas de México.md",
+    "Ideas de proyectos",
+    "Sistemas Computacionales/7to Semestre/Gestión de proyectos de Software/Investigaciones Propias/Herramientas CASE actuales.md",
     "Sistemas Computacionales/7to Semestre/Adquisición y visualización de datos/Unidad 2/Proyecto SII/Banco de Preguntas.md",
+    "Sistemas Computacionales/7to Semestre/Gestión de proyectos de Software/Investigaciones Propias",
+    "Sistemas Computacionales/7to Semestre/Adquisición y visualización de datos/Unidad 2/Proyecto SII/Banco de Preguntas.pdf",
+    "Sistemas Computacionales/7to Semestre/Adquisición y visualización de datos/Unidad 2/Factores que afectan el ancho de un I.C..md",
     "Sistemas Computacionales/7to Semestre/Adquisición y visualización de datos/Unidad 2/Proyecto SII",
     "Apuntes diarios/2026-10-21.md",
-    "Sistemas Computacionales/7to Semestre/Adquisición y visualización de datos/Unidad 2/Factores que afectan el ancho de un I.C..md",
     "Sistemas Computacionales/7to Semestre/Adquisición y visualización de datos/Unidad 2/Intervalo de confianza para variaciones y diferencia de proporciones.md",
     "Apuntes diarios",
-    "Sistemas Computacionales/7to Semestre/Adquisición y visualización de datos/Unidad 2/Banco de Preguntas Para Forms.md",
     "Sistemas Computacionales/7to Semestre/Gestión de proyectos de Software/Unidad 3/Apuntes/3.2. Estimaciones de Tiempos.md",
     "Sistemas Computacionales/7to Semestre/Gestión de proyectos de Software/Unidad 3/Gestión_Proyectos_Software_Temario_Unidad3.png",
     "Sistemas Computacionales/7to Semestre/Gestión de proyectos de Software/Unidad 3/Apuntes/3.1 Objetivos del proyecto.md",
@@ -235,19 +239,15 @@
     "School_Notes",
     "Apuntes diarios",
     "Sistemas Computacionales/7to Semestre/Gestión de proyectos de Software/Unidad 2/Investigaciones/Glosario de Términos U2.md",
-    "Sistemas Computacionales/7to Semestre/Gestión de proyectos de Software/Unidad 3/Investigaciones",
-    "Sistemas Computacionales/7to Semestre/Gestión de proyectos de Software/Unidad 3/Apuntes",
     "Sistemas Computacionales/7to Semestre/Gestión de proyectos de Software/Unidad 1/Gestión_Proyectos_Software_Temario_Unidad1.png",
     "Sistemas Computacionales/7to Semestre/Gestión de proyectos de Software/Unidad 1/Gestión_Proyectos_Software_TemasPMI.png",
     "Sistemas Computacionales/7to Semestre/Gestión de proyectos de Software/Unidad 2/Temario de la Unidad 2.md",
-    "Base de Datos Libreta de Apuntes.base",
     "Prueba.md",
     "Sistemas Computacionales/7to Semestre/Gestión de proyectos de Software/Libros recomendados.md",
     "Sistemas Computacionales/7to Semestre/Gestión de proyectos de Software/Unidad 2/Apuntes/Puntos para definir la calidad.md",
     "Sistemas Computacionales/7to Semestre/Gestión de proyectos de Software/Unidad 2/Apuntes/Impacto de la calidad en el tiempo, costos y alcances.md",
     "Sistemas Computacionales/7to Semestre/Gestión de proyectos de Software/Unidad 2/Apuntes/Diferencias entre plan y control de calidad.md",
     "Sistemas Computacionales/7to Semestre/Gestión de proyectos de Software/Unidad 2/Apuntes/Control de Cambios.md",
-    "Sistemas Computacionales/7to Semestre/Gestión de proyectos de Software/Unidad 2/Apuntes/Calidad y la triple restricción.md",
     "Sistemas Computacionales/7to Semestre/Gestión de proyectos de Software/Unidad 2/assets/Gestión_Proyectos_Software_Temario_Unidad2.png",
     "Sistemas Computacionales/7to Semestre/Adquisición y visualización de datos/Unidad 1/Fases_de_la_ciencia_de_datos.png",
     "Sistemas Computacionales/7to Semestre/Adquisición y visualización de datos/Unidad 1/Areas_relacionadas_de_la_data_science.png",

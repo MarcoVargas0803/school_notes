@@ -1,0 +1,5 @@
+Actualmente las herramientas CASE han evolucionado debido a las nuevas tendencias con las metodologìas como Agile, haciendo que el desarrollo del software sea tan monotono y con un proceso tardío en la planificación para ahora volverse en una planificación y desarrollo natural. Muchas de las herramientas CASE con metodologias clasicas se han vuelto obsoletas, pero para metodologías agiles las herramientas CASE ahora se centran en programas especificas para las 3 clasificaciones de las Herramientas CASE:
+
+- **Upper CASE** functions (requirements, modeling, design) are handled by tools like **StarUML** and **Microsoft Visio**.
+- **Lower CASE** functions (coding, testing, maintenance) are integrated into **IDE´s like VS Code, Jetbrains, GitHub Copilot, Claude Code, and back-end, front-end or full stack frameworks that helps to agroup all the 3 phases in one**.
+- **Integrated/Process-Centric** tools support **Agile and DevOps** through CI/CD automation and project management like Jira, Github Actions, and more.
